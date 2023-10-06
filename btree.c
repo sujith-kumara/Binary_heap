@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 #define MAX 3
-#define MIN 2
+#define MIN 1
 
 struct BTreeNode {
   int item[MAX + 1], count;
